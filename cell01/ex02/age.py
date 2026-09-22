@@ -1,3 +1,2 @@
 my_age = (20)
-int = 42
-print(my_age + int)
+print(my_age + 42)
