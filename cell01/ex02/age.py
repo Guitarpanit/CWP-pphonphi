@@ -1,2 +1,3 @@
 my_age = (20)
-print(my_age)
+int = 42
+print(my_age + int)
