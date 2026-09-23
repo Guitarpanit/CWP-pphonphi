@@ -4,4 +4,4 @@ number  = float(user_input)
 if number == int(number):
     print("The number is an integer.")
 else:
-    print("The number is not a decimal.")
+    print("The number is a decimal.")
